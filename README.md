@@ -1,4 +1,4 @@
-#Tailwind Traders Performace Analysis
+# Tailwind Traders Performace Analysis
 
 ### Project overview
 
