@@ -49,4 +49,4 @@ Based on the analysis, I recommend the following actions :
 
 ### Limitations
 
-The Sales dataset provided by the respective owner was merely for 3 months which cannot amount to a true depiction of the performance of the company. 
+The Sales dataset provided by the respective owner was merely for 3 months which cannot amount to a true depiction of the actual performance of the company. 
