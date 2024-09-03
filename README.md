@@ -25,9 +25,9 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as:
 
--﻿﻿ What is the overall sales trend?
-﻿﻿- Which products are top sellers?
-﻿﻿- What are the best performing areas?
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the best performing areas?
   
 ### Data Analysis
 
@@ -37,9 +37,9 @@ Analysed data by the means of various Visualizations like Bar Chart, Donut Chart
 
 The analysis results are summarized as follows:
 
-1.The company's sales have been steadily increasing except in the month of September.
-2.Products like Floral Wallpaper, Porcaline Dinner Set are the best-performing in terms of sales but products like Modular Sofa Set, Bamboo Plant Pot generate higher revenue.
-3.France accounts for the highest Sales market but USA excels in Profit sector amounting to 30% of the whole.
+1. The company's sales have been steadily increasing except in the month of September.
+2. Products like Floral Wallpaper, Porcaline Dinner Set are the best-performing in terms of sales but products like Modular Sofa Set, Bamboo Plant Pot generate higher revenue.
+3. France accounts for the highest Sales market but USA excels in Profit sector amounting to 30% of the whole.
 
 ### Recommendations
 
