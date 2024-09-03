@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 
-Sales Data: All the data has been provided by the certificate program.
+All the datasets has been provided by the certificate program.
 
 # Tools
 
