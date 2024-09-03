@@ -8,10 +8,10 @@ This data analysis project aims to provide insights into the sales performance o
 
 All the datasets has been provided by the certificate program.
 
-# Tools
+### Tools
 
-﻿﻿Excel - Data Cleaning
-﻿﻿PowerBI - Data Analysis and Report creation
+- ﻿﻿Excel - Data Cleaning
+- PowerBI - Data Analysis and Report creation
   
 ### Data Cleaning/Preparation
 
